@@ -18,7 +18,7 @@
     "concurrently": "^4.1.1",
     "express": "^4.16.4",
     "gravatar": "^1.8.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "mongoose": "^5.5.8",
     "npm": "^6.10.1",
